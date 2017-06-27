@@ -1,2 +1,3 @@
-# UIView-Gone
-实现安卓的“Gone效果” \n Hide view like android's "Gone".
+# UIView+Gone
+实现一般情况下隐藏视图但不占位置，像Android的“View.GONE”效果
+Hide view like Android's "View.GONE"
